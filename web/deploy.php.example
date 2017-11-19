@@ -1,0 +1,4 @@
+<?php
+echo "<pre>" . shell_exec('git pull 2>&1') . "</pre>";
+echo "<pre>" . shell_exec('cd .. && php /usr/local/bin/composer install 2>&1') . "</pre>";
+?>
