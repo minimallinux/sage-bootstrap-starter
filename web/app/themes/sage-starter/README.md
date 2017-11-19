@@ -4,6 +4,8 @@
 
 Sage is a WordPress starter theme based on HTML5 Boilerplate, gulp, Bower, and Bootstrap Sass, that will help you make better themes.
 
+This one has Bootstrap 3 Sass and Font Awesome along with some other extras to help style the theme nicely.
+
 * Source: [https://github.com/roots/sage](https://github.com/roots/sage)
 * Homepage: [https://roots.io/sage/](https://roots.io/sage/)
 * Documentation: [https://roots.io/sage/docs/](https://roots.io/sage/docs/)
