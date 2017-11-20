@@ -1,7 +1,7 @@
 # [Bedrock](https://roots.io/bedrock/)
 [![Build Status](https://travis-ci.org/roots/bedrock.svg)](https://travis-ci.org/roots/bedrock)
 
-Bedrock is a modern WordPress stack that helps you get started with the best development tools and project structure. This one includes two starter Sage 8 themes, one with with Bootstrap 3.3 and Font Awesome and quite a few other features, the other one is more barebones.
+Bedrock is a modern WordPress stack that helps you get started with the best development tools and project structure. This one includes two starter Sage 8 themes, one with with Bootstrap 3.3 and Font Awesome and quite a few other features, the other one is more barebones but with a few extra js libraries.
 
 You can also add other themes or starter themes in to /web/app/themes directory to work on those.
 
